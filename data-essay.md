@@ -12,9 +12,13 @@
 
 Данные – это основа информации, их можно определить как набор символов (цифр и букв). Но после того, как их проинтерпретировали, они становятся информацией.
 Источники данных с сайта rosstat.gov.ru:
+
 •	https://rosstat.gov.ru/storage/mediabank/4-1.doc
+
 •	https://rosstat.gov.ru/storage/mediabank/1Au5QCV9/4-2.doc
+
 Ссылка на данные на Hub of Data:
+
 •	https://www.google.com/url?q=https://hubofdata.ru/user/irina_kadatskaya&sa=D&source=editors&ust=1614614702831000&usg=AFQjCNH8LzVGMV2CdKrnnc0o5PuWRe00vQ
 
 
