@@ -29,7 +29,7 @@
           
 5. Лицензия
 
-Creative Commons Attribution 3.0
+Creative Commons Attribution 4.0
 
          
 6. Авторство
